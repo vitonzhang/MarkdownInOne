@@ -6,9 +6,11 @@ This repository is about Markdown. It may includes chinese version of [Markdown 
 ## Syntax
 The syntax is at [Ref-A][].
 
-### inline link
+### Links
+#### inline link
+Example for inline link is "Markdown syntax".
 
-### reference link
+#### reference link
 Examples for reference link: Ref-A
 
 I get 10 times more traffic from [Google][] than from
@@ -18,6 +20,7 @@ I get 10 times more traffic from [Google][] than from
   [yahoo]:  http://search.yahoo.com/  "Yahoo Search"
   [msn]:    http://search.msn.com/    "MSN Search"
 
+### Emphasis
 
 ## Reference
 1. Markdown syntax
