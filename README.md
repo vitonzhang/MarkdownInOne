@@ -21,6 +21,8 @@ I get 10 times more traffic from [Google][] than from
   [msn]:    http://search.msn.com/    "MSN Search"
 
 ### Emphasis
+*hello markdown*  
+**hello markdown**
 
 ## Reference
 1. Markdown syntax
