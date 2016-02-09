@@ -6,4 +6,4 @@ This repository is about Markdown. It may includes chinese version of [Markdown 
 The syntax is at [Ref][A]
 
 ## Reference
-[Ref][A] http://daringfireball.net/projects/markdown/syntax "Markdown syntax"
+[Ref][A]: http://daringfireball.net/projects/markdown/syntax "Markdown syntax"
