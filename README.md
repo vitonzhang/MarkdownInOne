@@ -3,8 +3,12 @@
 ## Introduction
 This repository is about Markdown. It may includes chinese version of [Markdown syntax] (http://daringfireball.net/projects/markdown/syntax).
 
-## Syntax
 The syntax is at [Ref-A][].
+
+## Block Elements
+
+
+## Span Elements
 
 ### Links
 #### inline link
@@ -23,6 +27,18 @@ I get 10 times more traffic from [Google][] than from
 ### Emphasis
 *hello markdown*  
 **hello markdown**
+
+### Code
+Use the `printf()` function.
+
+### Image
+
+![Image is not exist][image-id]
+
+[image-id]: url/to/image  "Optional title attribute"
+
+
+
 
 ## Reference
 1. Markdown syntax
