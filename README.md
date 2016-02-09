@@ -3,7 +3,8 @@
 ## Introduction
 This repository is about Markdown. It may includes chinese version of [Markdown syntax] (http://daringfireball.net/projects/markdown/syntax).
 
-The syntax is at [Markdown syntax].
+The syntax is at [Ref-A].
 
 ## Reference
+1. Markdown syntax
 [Ref-A]: http://daringfireball.net/projects/markdown/syntax  "Markdown syntax"
